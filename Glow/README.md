@@ -1,1 +1,1 @@
-In this mini project, we implemented a flow-based generative model called Glow, as proposed by D. P. Kingma and P. Dhariwal in [this paper](https://arxiv.org/abs/1807.03039) 
+In this mini project, we implemented a flow-based generative model called Glow, as proposed by D. P. Kingma and P. Dhariwal in [this paper](https://arxiv.org/abs/1807.03039). We then trained the model on the CIFAR-10 and MNIST datasets and performed an analysis on the training results.
